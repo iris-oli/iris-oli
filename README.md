@@ -1,4 +1,5 @@
-<img src="https://via.placeholder.com/1000x200.png?text=Bem-vinda+ao+meu+GitHub!" alt="Banner de apresentação" style="width:100%;"/>
+🌸   ☆*: .｡. o(≧▽≦)o .｡.:*☆   🌸
+
 
 # Oi, meu nome é Ìris! 👋
 
