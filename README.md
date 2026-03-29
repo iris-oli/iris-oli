@@ -3,7 +3,7 @@
 
 # Oi, meu nome é Ìris! 👋
 
-Sou estudante de **Desenvolvimento de Software Mobile** e apaixonada por tecnologia, criatividade e soluções digitais. Atualmente, estou aprendendo **Python** e **JavaScript**!
+Sou estudante de **Desenvolvimento de Software Multiplataforma** e apaixonada por tecnologia, criatividade e soluções digitais.!
 
 ## 🛠 Tecnologias que estou aprendendo:
 - Python 
