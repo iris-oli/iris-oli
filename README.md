@@ -12,10 +12,6 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** e apaixonada po
 - Firebase
 - Figma
 
-## 💡 Meus interesses:
-- Desenvolvimento mobile
-- Design de interfaces
-- Empreendedorismo digital
 
 ## 🤝 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iris-oliveira-b22161365)
